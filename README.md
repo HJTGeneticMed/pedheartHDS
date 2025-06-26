@@ -6,7 +6,6 @@ We conducted a retrospective analysis of pediatric HT recipients to define and c
 
 Our findings reveal diagnosis- and age-specific trends in post-HT hemodynamics, with certain patient subgroups demonstrating persistent abnormalities despite clinical stability. These data underscore the importance of personalized benchmarks for expected HDS trajectories and may support refined risk stratification in an era of increasingly non-invasive monitoring protocols.
 
-The raw images for our hemodynamic trends are provided here and are available on https://sites.google.com/view/
-hdsinpediatrichtx.
+The raw images for our hemodynamic trends are provided here and are available on https://sites.google.com/view/hdsinpediatrichtx.
 
 **How to Cite**
